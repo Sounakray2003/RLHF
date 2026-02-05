@@ -1,0 +1,3602 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9a5756a4dd366b98a4031c5dc3f330a.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The woman in the image is depicted wearing a yellow dress, with the overall appearance of the image appearing to be in good condition. The item itself appears to be used with minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9a5756a4dd366b98a4031c5dc3f330a.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The woman in the yellow dress appears to be a used item with minor wear. There are no obvious signs of significant damage, but it may show signs of prior use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9ba577ccd4db379c97cf6a967ab1b5d.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The fireplace appears to be in good condition with no visible signs of damage. The logs and surrounding area are clean and well maintained, suggesting regular upkeep.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9ba577ccd4db379c97cf6a967ab1b5d.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The fireplace appears to be used with minor wear, showing signs of prior use with logs having been burned in it. The overall condition is consistent with an item that has been previously used.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9c22c58ea0ea07877e8fbe57f0c0a8b.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The swing appears to be in good condition, with the bride and her bridesmaids sitting on it. The item shows minor wear, consistent with normal use.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9c22c58ea0ea07877e8fbe57f0c0a8b.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The swing appears to be used with minor wear, showing signs of prior use. It is depicted with a bride and her bridesmaids sitting on it, with no obvious major defects visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9d0aa04bad2893850111af6d9f52b11.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be in good condition, with a pink flower on a beige background. The overall appearance is clean and well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9d0aa04bad2893850111af6d9f52b11.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be a used product with minor wear, featuring a pink flower on a beige background. It shows no obvious signs of significant damage or discoloration.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9d952b0342b2d889226f65d0c0a9413.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be of a group of young women standing on the steps of a house. The image itself is clear and well-maintained, with no visible defects or damage.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9d952b0342b2d889226f65d0c0a9413.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior use. Its condition is consistent with being previously owned, with no obvious major defects visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9de28e6fac0fcf3a77ba9256068b953.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be in good condition with no visible defects. It is presented as a used item with minor wear, featuring a purple rope around its neck.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9de28e6fac0fcf3a77ba9256068b953.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, and a purple rope is visible around its neck. It may show signs of prior use, but no significant defects are immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9e47d33ff1a89b490179071ed2b9981.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be in good condition, with the bride and groom posing in front of a mountain. The overall appearance of the image suggests it is used with minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9e47d33ff1a89b490179071ed2b9981.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The photograph appears to be used with minor wear, showing a bride and groom posing in front of a mountain. It may have undergone prior use, but no significant defects are immediately visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9e8a5a7d79e3ad0522547bb93aa2540.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be in good condition, with no visible defects. The overall appearance is clean and well maintained, showing a red sky with a few clouds.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9e8a5a7d79e3ad0522547bb93aa2540.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be used with minor wear, showing a red sky with a few clouds. It is a previously used item with no obvious defects.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9eae8d55164a2dc290f9931ebfb72ba.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be of actress Kei Bell attending a screening, and the photo itself is in good condition with no visible defects. The overall appearance of the image is that of a used item with minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/c9eae8d55164a2dc290f9931ebfb72ba.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be used with minor wear. It may have undergone prior use, but no significant defects are immediately visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca0b3d95bcd0022a330e8e57cd37f316.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The armoured vehicle appears to be well maintained, with no visible signs of damage. The vehicle is shown in a clean and intact condition, as depicted in the streets of Dublin, Ireland.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca0b3d95bcd0022a330e8e57cd37f316.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This stock photo appears to be a used image with minor wear, depicting an armoured vehicle in the streets of Dublin, Ireland, during the Great War. The image may show signs of prior use, but no significant defects are immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca0c7654aad1112384f24db10c449b47.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Christmas presents appear to be in new condition, with no visible signs of wear or damage. They are presented on a clean white background, suggesting they have been well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca0c7654aad1112384f24db10c449b47.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, and it is presented on a white background. It shows no immediately apparent significant damage or defects.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca14059e04d977a3c3bf0d66802f941a.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The train appears to be well-maintained, with no visible signs of damage or wear. The train is depicted in a clean and tidy state, parked at a train station.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca14059e04d977a3c3bf0d66802f941a.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This train appears to be used with minor wear, showing no obvious signs of damage. The image depicts a yellow train at a station, with its condition consistent with prior use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca152d01973cf53c74278f6de041d5c1.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The logo appears to be in good condition, with no visible defects. It is a depiction of a mountain and a lake, presented in a clean and well-maintained manner.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca152d01973cf53c74278f6de041d5c1.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be used with minor wear, featuring a logo with a mountain and a lake. It may show signs of prior use, but no major defects are immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca2422dae1e96d29b5dc66d781ab82e5.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be in good condition, with no visible defects. The item is a used image with minor wear, as would be expected from normal use.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca2422dae1e96d29b5dc66d781ab82e5.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, consistent with prior handling. It shows no immediately apparent significant damage or defects.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca306dd447968059163c6ee272b4f0a3.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be a clean and well-maintained drawing of a man surrounded by birds. The overall condition of the drawing is consistent with a used item showing minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca306dd447968059163c6ee272b4f0a3.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is a used drawing of a man surrounded by birds, showing minor wear from prior use. The item may have slight marks or discoloration, consistent with general handling over time.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca3828bae59d50583d673f4cf3b92a78.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to show a scene with city lights illuminated, with no visible defects or damage. The overall condition of the subject in the image appears well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca3828bae59d50583d673f4cf3b92a78.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, consistent with prior use. It shows no immediately visible significant marks or scratches, but may exhibit signs of general wear from previous handling.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca4b0c98abf35a75dfbdc14823d670db.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The illustration appears to be in good condition, with no visible defects. The image of a man standing next to a dog is depicted in a clean and well-maintained manner.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca4b0c98abf35a75dfbdc14823d670db.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear. It is being sold as is, with no obvious defects visible in the provided illustration.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca5167c4b2d1d614649964489a6108dd.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be a stock photo of the Grand Canyon, with no visible defects or damage. The overall condition of the image itself appears to be new and clean, with no noticeable wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca5167c4b2d1d614649964489a6108dd.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is a used stock photo of the mountains in Grand Canyon National Park, Utah, USA, with minor wear from prior use. It may exhibit slight scratches or discoloration, consistent with general handling and display.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca5475d9e353d60291821420a395b0b4.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to depict a small cottage in a countryside setting, with no visible signs of damage or wear. The overall condition of the cottage appears to be well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca5475d9e353d60291821420a395b0b4.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to show a small cottage in the countryside, with the photograph itself displaying minor wear from prior use. The overall condition of the image is consistent with a used item, with no major defects immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca55c46f2c6ea1e0dc19b37ae68234fd.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be a photograph of a house in the suburbs with no visible defects. The house appears to be well maintained, with no obvious signs of wear or damage.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca55c46f2c6ea1e0dc19b37ae68234fd.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be a used house in the suburbs of New York, showing minor wear consistent with prior use. Its condition is consistent with a previously occupied dwelling, with no obvious major defects visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca841ca76714fc8043607395be8aaf8b.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The product appears to be in good condition with no visible defects. It is a used item with minor wear, presenting a clean and well-maintained appearance.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca841ca76714fc8043607395be8aaf8b.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior handling. Its overall condition is consistent with general use, but the extent of any wear is not readily apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca8a04a0ea1940fa57a0dd7ed3eb8c7c.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The garden appears well maintained, with a tree and bushes that are neatly kept. The overall condition of the garden appears to be that of a used outdoor space with minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca8a04a0ea1940fa57a0dd7ed3eb8c7c.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, consistent with prior use. It has no immediately apparent major defects, marks, or discoloration.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca8fa9062fe1e4b799f508e2bcd1b196.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be in good condition with no visible defects. The woman in the image is standing on a hill, wearing a blue dress, and the overall scene appears well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca8fa9062fe1e4b799f508e2bcd1b196.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The dress appears to be used with minor wear, consistent with prior use. It has no immediately visible major defects, marks, or discoloration.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca95777c4eae74ac0f0db7d36e46451d.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The canoe appears to be in good condition, with no visible signs of damage or excessive wear. It is depicted in a serene lakeside setting, giving the impression of a well-maintained vessel.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca95777c4eae74ac0f0db7d36e46451d.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This stock photo appears to be used with minor wear, showing a serene scene of a canoe on the edge of a lake in the woods. The image itself does not display any obvious defects or notable damage.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca9b170a4b3b3611fd43bd5ad59238d1.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The baseball logo templates set appears to be in new condition, with no visible signs of wear. The templates include a ball, baseball ball, and ribbon, and are presented in a clean and well-maintained state.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca9b170a4b3b3611fd43bd5ad59238d1.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This baseball logo templates set with ball, baseball ball and ribbon appears to be used with minor wear. It may show signs of prior use, but no significant damage is immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca9fcfcd9c2fa6b3a3befd4b5fab54b9.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be in good condition, with clear and vibrant details. The overall appearance suggests a well-maintained item with minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/ca9fcfcd9c2fa6b3a3befd4b5fab54b9.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be used with minor wear, featuring a Valentine's Day lettering design with pink flowers. It shows signs of prior use, with no obvious major defects visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caa29231898a882a5c6cee642b93a1b5.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The statue of a man riding a horse appears to be in good condition, with no visible defects. It is a used item with minor wear, presenting a clean and well-maintained appearance.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caa29231898a882a5c6cee642b93a1b5.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This statue of a man riding a horse appears to be used with minor wear. It may have undergone prior use, but its overall condition is consistent with typical handling and display.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cab0856b903b634c4aa8d778dafc647f.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to show a baseball player in action, with no visible defects or damage. The overall condition of the image itself appears to be used with minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cab0856b903b634c4aa8d778dafc647f.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This used baseball shows signs of prior use with minor wear. It may have slight discoloration or scratches from handling, consistent with general wear and tear.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cab4cf41775f816bad01f6f5ea90855c.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The product appears to be in a clean and well-maintained condition. It is being sold as a used item with minor wear, although no specific defects are immediately visible.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cab4cf41775f816bad01f6f5ea90855c.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear. It may have undergone prior use, but no significant visible damage is immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cac14d5986b3051e0f4fff7c6a05ab9b.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be in good condition with no visible defects. The leaves are cleanly presented on the ground, showing minor wear from being on the ground.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cac14d5986b3051e0f4fff7c6a05ab9b.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior handling. It may have minor scratches or discoloration, consistent with general prior use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cac4c1e034c387fd56e4b1f8fa8ea1a2.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to show a small flower in a forest setting, with no visible defects or damage. The overall condition of the subject appears to be well maintained, with no noticeable wear or issues.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cac4c1e034c387fd56e4b1f8fa8ea1a2.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be a used flower with minor wear, consistent with prior use. It displays some natural discoloration and subtle scratches, likely due to its time in the forest environment.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cad523882817b4f1bfee1229796f4624.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The house appears to be well maintained, with no visible signs of damage. The group of people standing in front of it are not the focus of the image, but the house itself looks to be in good condition.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cad523882817b4f1bfee1229796f4624.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior use. It has no obvious major defects, but may have minor marks or scratches from previous handling.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cae16286d2cff9c643bd395e3cce807f.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The photo appears to be in good condition, with no visible defects or damage. The image is of two young boys laughing and looking at the camera, presented in a clear and well-maintained format.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cae16286d2cff9c643bd395e3cce807f.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior use. It may have slight marks or discoloration, consistent with normal handling and use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caefe0da2021216afff507de80d7a4f0.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The storefront sign appears to be in good condition, with no visible defects. The overall appearance of the sign suggests it is well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caefe0da2021216afff507de80d7a4f0.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear. It has been previously used, but no significant damage or defects are immediately visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caf174f4cd284228717db74f551f621c.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The toilet appears to be in good condition with a clean and intact seat. The overall appearance suggests minor wear, consistent with a used item.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caf174f4cd284228717db74f551f621c.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This toilet appears to be used with minor wear, presenting a white exterior with a smiley face on the seat. Its prior use is evident, though no significant defects are immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caf6596a48ec755736085c46bd769828.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The room appears to be well maintained, with a clean and tidy appearance. The window and view are prominently visible, with no obvious signs of wear or damage.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caf6596a48ec755736085c46bd769828.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be used with minor wear, consistent with prior use. It may have acquired some imperceptible marks or scratches over time, but no major defects are immediately visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caf84bff859715f6298ae37e7fefcc80.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The baby in the basket appears to be well maintained, with a clean blanket and fresh bread. The overall condition of the scene is that of a used item with minor wear.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/caf84bff859715f6298ae37e7fefcc80.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be used with minor wear, showing no obvious signs of significant damage. It has been previously used, but its overall condition is consistent with general prior use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb04910ab75c70ad055705abe6e6fd66.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be a stock photo of a young woman pushing a stroller in a park. The overall condition of the scene is well maintained, with no visible defects or damage.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb04910ab75c70ad055705abe6e6fd66.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This used stroller shows signs of prior use with minor wear. It may have scratches or discoloration, consistent with normal use over time.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb04a54f3fa0459f31fbdfc521247105.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The product appears to be in good condition with no visible defects. It is a used item with minor wear, presenting a clean and well-maintained appearance.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb04a54f3fa0459f31fbdfc521247105.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior use. It may have some scratches or marks, but the overall condition is consistent with general use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb0fcfa0e5f0c521cb8a7c8eafa718d8.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The sailboat appears to be in good condition with clean and well-maintained white sails. The item shows minor wear consistent with normal use.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb0fcfa0e5f0c521cb8a7c8eafa718d8.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The sailboat model has a used appearance with minor wear. It has white sails and shows signs of prior use, with no significant damage immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb187e7ceff2afdfb813c5f0bac2d7b7.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be in good condition, with no visible defects or damage. The scene depicted shows two women talking in a park, with the overall image appearing to be well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb187e7ceff2afdfb813c5f0bac2d7b7.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be used with minor wear, showing signs of prior use. It may have slight scratches or discoloration, consistent with normal handling and use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb21d0f0cbc09c5739501dc0ee3900b6.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to be of a model on a runway, with no visible defects or damage. The overall condition of the image itself appears to be clean and well maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb21d0f0cbc09c5739501dc0ee3900b6.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This item appears to be used with minor wear, consistent with prior use. It may exhibit some signs of general wear, but no major defects are immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb24cd17932ad28e83248a814b5540cf.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to show a serene scene with a group of people standing around a lake. The overall condition of the image itself appears to be in good condition with no visible defects.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb24cd17932ad28e83248a814b5540cf.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior use around the edges. It has a generally worn appearance, consistent with being previously owned.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb3358e5e5770be07208d077755935f7.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The statue appears to be in good condition with no visible defects. It is a used item with minor wear, presenting a clean and well-maintained appearance.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb3358e5e5770be07208d077755935f7.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This statue of Saint Francis appears to be used with minor wear, showing signs of prior handling. It may have slight discoloration or marks from previous use, but its overall condition is consistent with a previously owned item.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb34532efbc19c6f1917c3e534f041d2.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to show a serene path through the woods, with no visible defects or damage. The overall condition of the scene depicted is well maintained, with a clear and unobstructed view of the path.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb34532efbc19c6f1917c3e534f041d2.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, as would be expected from prior use. It may exhibit some signs of general wear, but no major defects are immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb396119d16c4318b0fe537c8ada1712.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The glass cup appears to be in good condition, with no visible defects or damage. The cup is presented on a wooden table, giving the impression of a well-maintained item.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb396119d16c4318b0fe537c8ada1712.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The glass cup appears to be used with minor wear, and is shown containing hot tea on a wooden table. It may have undergone prior use, but no obvious defects are visible in the provided image.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb3f628e4323099831446997bfbde7e1.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The cross appears to be in good condition, with no visible defects or damage. The image presents a well-maintained cross in a natural setting, with a cloudy sky in the background.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb3f628e4323099831446997bfbde7e1.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This stock image appears to be used with minor wear, showing a cross in the middle of a forest with a cloudy sky in the background. It may exhibit general signs of prior use, but no significant defects are immediately apparent.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb40a60428c82529fba4f533f11f0ba0.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image appears to show a man standing in front of a building, with the building itself appearing to be well maintained. The overall condition of the building is consistent with a structure that is regularly cleaned and maintained.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb40a60428c82529fba4f533f11f0ba0.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The item appears to be used with minor wear, showing signs of prior use. It may have minor marks or scratches, but no significant damage is immediately visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb42591a3eabf51c8f586216646acfcd.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The hay bale and bench appear to be well maintained, with no visible signs of damage. The overall condition of the items in the field suggests minor wear from use.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb42591a3eabf51c8f586216646acfcd.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bench appears to be used with minor wear, and the hay bale is situated beside it in the field. The overall condition of the bench suggests prior use, with no obvious major defects visible.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb46fa6a639d6e63e98f2c90b5814648.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The stock photo appears to be in good condition, with no visible defects. The image is a standard representation of a group of women playing soccer on a field.",
+            "decisions": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an expert product description writer for Amazon."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a short product description based on the image.\nOnly return the description. It must be concise, SEO-friendly, and suitable for mobile search.\n\nImage: <image>"
+          },
+          {
+            "type": "image",
+            "image": "images/cb46fa6a639d6e63e98f2c90b5814648.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "This stock photo appears to be a used image of a group of women playing soccer on a field, showing minor wear from prior use. The image may exhibit some degree of discoloration or scratches, consistent with general use.",
+            "decisions": "Rejected"
+          }
+        ]
+      }
+    ]
+  }
+]
